@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lordjeferies.github.io/abraxasxferreksa/sitemap.xml
