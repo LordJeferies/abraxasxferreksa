@@ -57,3 +57,6 @@ Se integró una escena generada con Luka y el logo como parte del taller, cuatro
 Las instrucciones de Pages siguen la documentación oficial: https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site .
 
 Verificación adicional: filtro por proyecto «Renovar y pintar», detalle de producto, añadir desde la ficha, abrir y cerrar la revisión de WhatsApp, nueva ficha de tornillos y fijaciones, nueve productos y carga de imágenes visibles. Se revisó la nueva escena de Luka a 390 y 320 px. No se comprobó un envío real, un teléfono físico ni una auditoría completa de accesibilidad.
+
+## Reorganización del 20 de octubre
+La landing está en abraxasxferreksa; el sitio completo, en abraxasxferreksa2; la demo con 3D, en abraxasxferreksa9; y la temporal, en abraxasxferreksa0. Las cuatro incluyen tema claro/oscuro. Cotizaciones usa búsqueda, categorías y plantillas editables. Véase docs/REORGANIZACION-20261020.md para alcance y pruebas.
